@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 6, 2015, 2:06:38 PM
+    Author     : Barry Speller
+*/
+
+.chart {
+    -fx-padding: 0px;
+}
+.chart-content {
+    -fx-padding: 0px;
+}
+
+.chart-series-line {    
+    -fx-stroke-width: 2px;
+}
