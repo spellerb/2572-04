@@ -145,6 +145,7 @@ public class Assignment_04 extends Application {
     
     private static void handleClearClick() {
         lineChart.getData().clear();
+        taSimulationLog.setText("");
     }
 
     /**
